@@ -3,7 +3,7 @@ import authRoutes from "./auth.routes";
 import propertyRoutes from "../../../routes/property.routes";
 import landlordRoutes from "./landlord.routes";
 import rentalRoutes from "../../../routes/rental.routes";
-import paymentRoutes from "../../../routes/payment.routes";
+import paymentRoutes from "./payment.routes";
 import reviewRoutes from "../../../routes/review.routes";
 import adminRoutes from "./admin.routes";
 

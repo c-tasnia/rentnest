@@ -4,7 +4,7 @@ import propertyRoutes from "./property.routes";
 import landlordRoutes from "./landlord.routes";
 import rentalRoutes from "./rental.routes";
 import paymentRoutes from "./payment.routes";
-import reviewRoutes from "../../../routes/review.routes";
+import reviewRoutes from "./review.routes";
 import adminRoutes from "./admin.routes";
 
 const router = Router();

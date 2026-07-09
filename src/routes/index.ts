@@ -1,6 +1,6 @@
 import { Router } from "express";
 import authRoutes from "./auth.routes";
-import propertyRoutes from "../../../routes/property.routes";
+import propertyRoutes from "./property.routes";
 import landlordRoutes from "./landlord.routes";
 import rentalRoutes from "../../../routes/rental.routes";
 import paymentRoutes from "./payment.routes";
